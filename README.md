@@ -1,7 +1,7 @@
 
 # SPS Plotly Dashboard
 
-A Plotly Dash web application designed to visualize and analyze synthetic patient data for a mental health clinic. This project includes a range of financial, no-show, and patient churn analyses and is deployed [here](https://portfolio-projects.fly.dev).
+A Plotly Dash web application designed to visualize and analyze synthetic patient data for a mental health clinic. This project includes a range of financial, no-show, and patient churn analyses and is deployed [here](https://portfolio-projects.fly.dev). Please note that the site can be slow to load due to the amount of data compiled.
 
 **Note**: The data in this project is synthetic and not real patient data, ensuring compliance with HIPAA regulations. However, it is based on actual patient demographic statistics to maintain relevance.
 
