@@ -79,3 +79,9 @@ This project is licensed under the MIT License.
 ## Acknowledgments
 
 This project is built with synthetic data to protect patient privacy and comply with HIPAA guidelines. The data originates from analyses on appointment no-shows and patient churn trends, combining insights from multiple projects to ensure a comprehensive and informative dashboard.
+
+## Contact
+For questions or feedback, feel free to reach out:
+- **Email:** Adam.RivardWalter@gmail.com  
+- **GitHub:** [adamw80](https://github.com/adamw80)
+
